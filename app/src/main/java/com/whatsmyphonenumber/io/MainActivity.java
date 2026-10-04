@@ -1,4 +1,4 @@
-package com.whatsmyphonenumber;
+package com.whatsmyphonenumber.io;
 
 import android.Manifest;
 import android.app.Activity;
